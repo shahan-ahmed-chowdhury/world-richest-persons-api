@@ -1,7 +1,7 @@
 [
     {
        "name": "JEFF BEZOS",
-       "image": "https://ibb.co/bHPgRfk",
+       "image": "https://i.ibb.co/rbmGfWV/1-Jeff-Bezos.png",
        "age": 57,
        "country": "United States",
        "netWorth": 177,
@@ -9,7 +9,7 @@
     },
     {
        "name": "ELON MUSK",
-       "image": "https://ibb.co/BTGJxL9",
+       "image": "https://i.ibb.co/F8X1M6F/2-Elon-Mask.png",
        "age": 50,
        "country": "United States",
        "netWorth": 151,
@@ -17,7 +17,7 @@
     },
     {
        "name": "BERNARD ARNAULT",
-       "image": "https://ibb.co/zxBLBtC",
+       "image": "https://i.ibb.co/RbsMsJt/3-Bernard-Arnault.png",
        "age": 72,
        "country": "France",
        "netWorth": 150,
@@ -25,7 +25,7 @@
     },
     {
        "name": "BILL GATES",
-       "image": "https://ibb.co/pJxvx0B",
+       "image": "https://i.ibb.co/XSbZb2r/4-Bill-Gates.png",
        "age": 65,
        "country": "United States",
        "netWorth": 124,
@@ -33,7 +33,7 @@
     },
     {
        "name": "MARK ZUCKERBERG",
-       "image": "https://ibb.co/89nFhLB",
+       "image": "https://i.ibb.co/TtDzCxT/5-Mark-Zuckerberg.png",
        "age": 37,
        "country": "United States",
        "netWorth": 97,
@@ -41,7 +41,7 @@
     },
     {
        "name": "WARREN BUFFETT",
-       "image": "https://ibb.co/6tsnD4Z",
+       "image": "https://i.ibb.co/Ksy0V9G/6-Warren-Buffett.png",
        "age": 91,
        "country": "United States",
        "netWorth": 96,
@@ -49,7 +49,7 @@
     },
     {
        "name": "LARRY ELLISON",
-       "image": "https://ibb.co/0nr8pB7",
+       "image": "https://i.ibb.co/sgqkp5f/7-Larry-Ellison.png",
        "age": 77,
        "country": "United States",
        "netWorth": 93,
@@ -57,7 +57,7 @@
     },
     {
        "name": "LARRY PAGE",
-       "image": "https://ibb.co/W26QBVD",
+       "image": "https://i.ibb.co/JsKNr3x/8-Larry-Page.png",
        "age": 48,
        "country": "United States",
        "netWorth": 91.5,
@@ -65,7 +65,7 @@
     },
     {
        "name": "SERGEY BRIN",
-       "image": "https://ibb.co/G9SKjTM",
+       "image": "https://i.ibb.co/dtYdygp/9-Sergey-Brin.png",
        "age": 48,
        "country": "United States",
        "netWorth": 89,
@@ -73,7 +73,7 @@
     },
     {
        "name": "MUKESH AMBANI",
-       "image": "https://ibb.co/x5Y7JJS",
+       "image": "https://i.ibb.co/WK02ggW/10-Mukesh-Ambani.png",
        "age": 64,
        "country": "India",
        "netWorth": 84.5,
@@ -81,7 +81,7 @@
     },
     {
        "name": "AMANCIO ORTEGA",
-       "image": "https://ibb.co/tx5bVtP",
+       "image": "https://i.ibb.co/D8n70yg/11-Amancio-Ortega.png",
        "age": 85,
        "country": "Spain",
        "netWorth": 77,
@@ -89,7 +89,7 @@
     },
     {
        "name": "FRANCOISE BETTENCOURT MEYERS",
-       "image": "https://ibb.co/mGxqQBG",
+       "image": "https://i.ibb.co/W6TyS36/12-Francoise-Bettencourt-Meyers.png",
        "age": 68,
        "country": "France",
        "netWorth": 73.6,
