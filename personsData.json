@@ -1,0 +1,98 @@
+[
+    {
+       "name": "JEFF BEZOS",
+       "image": "https://ibb.co/bHPgRfk",
+       "age": 57,
+       "country": "United States",
+       "netWorth": 177,
+       "maritalStatus": "In Relationship"
+    },
+    {
+       "name": "ELON MUSK",
+       "image": "https://ibb.co/BTGJxL9",
+       "age": 50,
+       "country": "United States",
+       "netWorth": 151,
+       "maritalStatus": "In Relationship"
+    },
+    {
+       "name": "BERNARD ARNAULT",
+       "image": "https://ibb.co/zxBLBtC",
+       "age": 72,
+       "country": "France",
+       "netWorth": 150,
+       "maritalStatus": "Married"
+    },
+    {
+       "name": "BILL GATES",
+       "image": "https://ibb.co/pJxvx0B",
+       "age": 65,
+       "country": "United States",
+       "netWorth": 124,
+       "maritalStatus": "Divorced"
+    },
+    {
+       "name": "MARK ZUCKERBERG",
+       "image": "https://ibb.co/89nFhLB",
+       "age": 37,
+       "country": "United States",
+       "netWorth": 97,
+       "maritalStatus": "Married"
+    },
+    {
+       "name": "WARREN BUFFETT",
+       "image": "https://ibb.co/6tsnD4Z",
+       "age": 91,
+       "country": "United States",
+       "netWorth": 96,
+       "maritalStatus": "Remarried"
+    },
+    {
+       "name": "LARRY ELLISON",
+       "image": "https://ibb.co/0nr8pB7",
+       "age": 77,
+       "country": "United States",
+       "netWorth": 93,
+       "maritalStatus": "In Relationship"
+    },
+    {
+       "name": "LARRY PAGE",
+       "image": "https://ibb.co/W26QBVD",
+       "age": 48,
+       "country": "United States",
+       "netWorth": 91.5,
+       "maritalStatus": "Married"
+    },
+    {
+       "name": "SERGEY BRIN",
+       "image": "https://ibb.co/G9SKjTM",
+       "age": 48,
+       "country": "United States",
+       "netWorth": 89,
+       "maritalStatus": "Married"
+    },
+    {
+       "name": "MUKESH AMBANI",
+       "image": "https://ibb.co/x5Y7JJS",
+       "age": 64,
+       "country": "India",
+       "netWorth": 84.5,
+       "maritalStatus": "Married"
+    },
+    {
+       "name": "AMANCIO ORTEGA",
+       "image": "https://ibb.co/tx5bVtP",
+       "age": 85,
+       "country": "Spain",
+       "netWorth": 77,
+       "maritalStatus": "Married"
+    },
+    {
+       "name": "FRANCOISE BETTENCOURT MEYERS",
+       "image": "https://ibb.co/mGxqQBG",
+       "age": 68,
+       "country": "France",
+       "netWorth": 73.6,
+       "maritalStatus": "Married"
+    }
+ ]
